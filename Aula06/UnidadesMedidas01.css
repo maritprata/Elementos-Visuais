@@ -1,0 +1,17 @@
+*{
+    font-size: 25px;
+    /*Elemento raiz*/
+}
+p{
+    font-size: 1em;
+    /*Em=2 vezes o tamanho da fonte atual*/
+}
+.box1{
+    font-size: 2rem;
+    /*Rem=Relativo ao tamanho da fonte o elemento raiz*/
+}
+
+.box2{
+    font-size: 1em;
+    /*Em=Anterior a ele*/
+}

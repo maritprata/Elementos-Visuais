@@ -1,0 +1,21 @@
+.box1{
+   /*width: 300vw;*/
+   height: 100vh;
+   background-color: red;
+   color: aliceblue;
+   margin-bottom: 4px;
+  
+}.box2{
+    /*width: 300vw;*/
+    height: 300vh;
+    background-color: green;
+    color: aliceblue;
+    margin-bottom: 4px;
+ }
+ .box3{
+    /*width: 300vw;*/
+    height: 300vh;
+    background-color: blue;
+    color: aliceblue;
+    margin-bottom: 4px;
+ }
