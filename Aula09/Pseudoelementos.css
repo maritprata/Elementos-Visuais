@@ -1,0 +1,13 @@
+/*p::after{
+    content: 'Sorvete';
+}
+
+p::before{
+    content: 'Chocolate';
+}*/
+
+p::first-letter{
+    color: blue;
+    font-size: 1.6em;
+    font-family: Arial, Helvetica, sans-serif;
+}

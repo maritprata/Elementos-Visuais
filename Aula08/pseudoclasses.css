@@ -1,0 +1,26 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+--cor-primary: #010626;
+--cor-second: #F2F2F2;
+--cor-tertiary: #020659;
+--fon-size:1.5rem;
+}
+
+body{
+    background-color:var(--cor-primary);
+} 
+
+h1{
+    color: var(--cor-second);
+}
+
+p{
+    font-size: var(--fon-size);
+}
