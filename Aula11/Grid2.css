@@ -1,0 +1,22 @@
+.container{
+    display: grid;
+    height:800px;
+    width: 800px;
+    gap: 5px;
+
+    /*grid-template-columns: repeat(4,1fr) ;
+
+    /*grid-template-rows: repeat(3,1fr);*/
+
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 300px 300px 300px;
+
+
+    /*justify-items: start;
+    align-items: center;*/
+    place-items: start start;
+
+    /*justify-content: space-between;
+    align-content: center;*/
+    /*place-content: space-between center; */   
+}

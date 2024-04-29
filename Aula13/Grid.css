@@ -1,0 +1,9 @@
+.container{
+    background-color: brown;
+    height: 50vh;
+   font-size: 2rem;
+   display: grid;
+   grid-template-columns: 100px auto 200px;
+   grid-template-rows: repeat(3, 1fr);
+
+}
